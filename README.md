@@ -1,3 +1,2 @@
-# Discord
-/Hi eveyone! This is Creeper Bot, by our honor, repectful president.
-asd
+# Golden Apple News
+/
