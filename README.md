@@ -1,2 +1,2 @@
 # Golden Apple News
-/1
+/2
